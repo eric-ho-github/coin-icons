@@ -1,0 +1,1352 @@
+{
+  "aeget.com": {
+    "name": "AEGET",
+    "slug": "aeget",
+    "cmcId": 33595,
+    "rank": 197
+  },
+  "aianalysisexchange.com": {
+    "name": "AIA Exchange",
+    "slug": "aia-exchange",
+    "cmcId": 10992,
+    "rank": 146
+  },
+  "aivora.com": {
+    "name": "Aivora Exchange",
+    "slug": "aivora-exchange",
+    "cmcId": 12404,
+    "rank": 167
+  },
+  "alp.com": {
+    "name": "ALP.COM",
+    "slug": "btc-alpha",
+    "cmcId": 228,
+    "rank": 115
+  },
+  "altcointrader.co.za": {
+    "name": "Altcoin Trader",
+    "slug": "altcoin-trader",
+    "cmcId": 261,
+    "rank": 134
+  },
+  "app.metalx.com": {
+    "name": "Metal X",
+    "slug": "metal-x",
+    "cmcId": 1003,
+    "rank": 201
+  },
+  "astralx.com": {
+    "name": "AstralX",
+    "slug": "astralx",
+    "cmcId": 12099,
+    "rank": 92
+  },
+  "astx.io": {
+    "name": "ASTX",
+    "slug": "astx",
+    "cmcId": 33178,
+    "rank": 208
+  },
+  "azbit.com": {
+    "name": "Azbit",
+    "slug": "azbit",
+    "cmcId": 1117,
+    "rank": 47
+  },
+  "b2z.exchange": {
+    "name": "B2Z Exchange",
+    "slug": "b2z-exchange",
+    "cmcId": 9584,
+    "rank": 219
+  },
+  "backpack.exchange": {
+    "name": "Backpack Exchange",
+    "slug": "backpack-exchange",
+    "cmcId": 9452,
+    "rank": 68
+  },
+  "basekx.com": {
+    "name": "BASEKX",
+    "slug": "ekbit",
+    "cmcId": 10962,
+    "rank": 145
+  },
+  "batonex.com": {
+    "name": "Batonex",
+    "slug": "wisebitcoin",
+    "cmcId": 1379,
+    "rank": 102
+  },
+  "bcex.kr": {
+    "name": "BCEX Korea",
+    "slug": "bcex-korea",
+    "cmcId": 826,
+    "rank": 216
+  },
+  "biconomy.com": {
+    "name": "Biconomy.com",
+    "slug": "biconomy",
+    "cmcId": 937,
+    "rank": 31
+  },
+  "bifinance.com": {
+    "name": "BiFinance",
+    "slug": "bifinance-exchange",
+    "cmcId": 9606,
+    "rank": 42
+  },
+  "big.one": {
+    "name": "BigONE",
+    "slug": "bigone",
+    "cmcId": 330,
+    "rank": 38
+  },
+  "bikingex.com": {
+    "name": "BiKing",
+    "slug": "biking",
+    "cmcId": 9298,
+    "rank": 154
+  },
+  "bilaxy.com": {
+    "name": "Bilaxy",
+    "slug": "bilaxy",
+    "cmcId": 415,
+    "rank": 122
+  },
+  "binance.com": {
+    "name": "Binance",
+    "slug": "binance",
+    "cmcId": 270,
+    "rank": 1
+  },
+  "binance.th": {
+    "name": "Binance TH",
+    "slug": "binance-th",
+    "cmcId": 9662,
+    "rank": 30
+  },
+  "binance.tr": {
+    "name": "Binance TR",
+    "slug": "binance-tr",
+    "cmcId": 1375,
+    "rank": 15
+  },
+  "binance.us": {
+    "name": "Binance.US",
+    "slug": "binance-us",
+    "cmcId": 630,
+    "rank": 22
+  },
+  "bingx.com": {
+    "name": "BingX",
+    "slug": "bingx",
+    "cmcId": 1064,
+    "rank": 13
+  },
+  "binibit.com": {
+    "name": "Binibit",
+    "slug": "binibit",
+    "cmcId": 34033,
+    "rank": 185
+  },
+  "bit2me.com": {
+    "name": "Bit2Me",
+    "slug": "bit2me",
+    "cmcId": 1561,
+    "rank": 76
+  },
+  "bitazza.com": {
+    "name": "Bitazza",
+    "slug": "bitazza",
+    "cmcId": 1124,
+    "rank": 193
+  },
+  "bitbaby.com": {
+    "name": "Bitbaby",
+    "slug": "bitbabyexchange",
+    "cmcId": 12456,
+    "rank": 150
+  },
+  "bitbank.cc": {
+    "name": "Bitbank",
+    "slug": "bitbank",
+    "cmcId": 257,
+    "rank": 65
+  },
+  "bitbase.com": {
+    "name": "Bitbase",
+    "slug": "bitbase-com",
+    "cmcId": 33662,
+    "rank": 60
+  },
+  "bitbns.com": {
+    "name": "Bitbns",
+    "slug": "bitbns",
+    "cmcId": 376,
+    "rank": 151
+  },
+  "bitcastle.io": {
+    "name": "Bitcastle",
+    "slug": "bitcastle",
+    "cmcId": 7850,
+    "rank": 132
+  },
+  "bitcoin.me": {
+    "name": "Bitcoin.me",
+    "slug": "klever-exchange",
+    "cmcId": 1524,
+    "rank": 225
+  },
+  "bitcoiva.com": {
+    "name": "Bitcoiva",
+    "slug": "bitcoiva",
+    "cmcId": 1131,
+    "rank": 152
+  },
+  "bitdelta.com": {
+    "name": "BitDelta",
+    "slug": "bitdelta",
+    "cmcId": 9384,
+    "rank": 109
+  },
+  "bitexen.com": {
+    "name": "Bitexen",
+    "slug": "bitexen",
+    "cmcId": 1138,
+    "rank": 114
+  },
+  "bitexlive.com": {
+    "name": "BitexLive",
+    "slug": "bitexlive",
+    "cmcId": 653,
+    "rank": 127
+  },
+  "bitfinex.com": {
+    "name": "Bitfinex",
+    "slug": "bitfinex",
+    "cmcId": 37,
+    "rank": 12
+  },
+  "bitflyer.com": {
+    "name": "bitFlyer",
+    "slug": "bitflyer",
+    "cmcId": 139,
+    "rank": 21
+  },
+  "bitget.com": {
+    "name": "Bitget",
+    "slug": "bitget",
+    "cmcId": 513,
+    "rank": 6
+  },
+  "bitgw.com": {
+    "name": "BitGW Exchange",
+    "slug": "bitgw-exchange",
+    "cmcId": 33260,
+    "rank": 206
+  },
+  "bithumb.com": {
+    "name": "Bithumb",
+    "slug": "bithumb",
+    "cmcId": 200,
+    "rank": 18
+  },
+  "bitkan.com": {
+    "name": "BitKan",
+    "slug": "bitkan",
+    "cmcId": 11385,
+    "rank": 171
+  },
+  "bitkub.com": {
+    "name": "Bitkub",
+    "slug": "bitkub",
+    "cmcId": 436,
+    "rank": 70
+  },
+  "bitlo.com": {
+    "name": "Bitlo",
+    "slug": "bitlo",
+    "cmcId": 6406,
+    "rank": 187
+  },
+  "bitmarkets.com": {
+    "name": "BITmarkets",
+    "slug": "bitmarkets",
+    "cmcId": 10963,
+    "rank": 104
+  },
+  "bitonic.nl": {
+    "name": "Bitonic",
+    "slug": "bitonic",
+    "cmcId": 96,
+    "rank": 211
+  },
+  "bitopro.com": {
+    "name": "BitoPro",
+    "slug": "bitopro",
+    "cmcId": 717,
+    "rank": 81
+  },
+  "bitradex.ai": {
+    "name": "BitradeX",
+    "slug": "bitradex",
+    "cmcId": 12131,
+    "rank": 129
+  },
+  "bitrue.com": {
+    "name": "Bitrue",
+    "slug": "bitrue",
+    "cmcId": 433,
+    "rank": 59
+  },
+  "bitso.com": {
+    "name": "Bitso",
+    "slug": "bitso",
+    "cmcId": 125,
+    "rank": 62
+  },
+  "bitspay.io": {
+    "name": "Bitspay",
+    "slug": "bitspay",
+    "cmcId": 961,
+    "rank": 125
+  },
+  "bitstamp.net": {
+    "name": "Bitstamp by Robinhood",
+    "slug": "bitstamp",
+    "cmcId": 70,
+    "rank": 17
+  },
+  "bittap.com": {
+    "name": "BitTap",
+    "slug": "bittap",
+    "cmcId": 12386,
+    "rank": 157
+  },
+  "bittrade.co.jp": {
+    "name": "BitTrade",
+    "slug": "bittrade",
+    "cmcId": 988,
+    "rank": 85
+  },
+  "bittylicious.com": {
+    "name": "Bittylicious",
+    "slug": "bittylicious",
+    "cmcId": 34,
+    "rank": 222
+  },
+  "bitunix.com": {
+    "name": "Bitunix",
+    "slug": "bitunix",
+    "cmcId": 7302,
+    "rank": 35
+  },
+  "bitvavo.com": {
+    "name": "Bitvavo",
+    "slug": "bitvavo",
+    "cmcId": 520,
+    "rank": 43
+  },
+  "bitxex.io": {
+    "name": "BitxEX",
+    "slug": "xex",
+    "cmcId": 10946,
+    "rank": 140
+  },
+  "blockfin.com": {
+    "name": "BlockFin",
+    "slug": "blockfin",
+    "cmcId": 12266,
+    "rank": 200
+  },
+  "blofin.com": {
+    "name": "BloFin",
+    "slug": "blofin",
+    "cmcId": 6637,
+    "rank": 39
+  },
+  "bluebit.io": {
+    "name": "BlueBit",
+    "slug": "bluebit",
+    "cmcId": 8961,
+    "rank": 217
+  },
+  "blynex.com": {
+    "name": "Blynex",
+    "slug": "blynex",
+    "cmcId": 11124,
+    "rank": 165
+  },
+  "btcbox.co.jp": {
+    "name": "BTCBOX",
+    "slug": "btcbox",
+    "cmcId": 127,
+    "rank": 121
+  },
+  "btcc.com": {
+    "name": "BTCC",
+    "slug": "btcc",
+    "cmcId": 21,
+    "rank": 28
+  },
+  "btcmarkets.net": {
+    "name": "BTC Markets",
+    "slug": "btc-markets",
+    "cmcId": 224,
+    "rank": 97
+  },
+  "btse.com": {
+    "name": "BTSE",
+    "slug": "btse",
+    "cmcId": 658,
+    "rank": 44
+  },
+  "buda.com": {
+    "name": "Buda",
+    "slug": "buda",
+    "cmcId": 250,
+    "rank": 112
+  },
+  "bullish.com": {
+    "name": "Bullish",
+    "slug": "bullish",
+    "cmcId": 1601,
+    "rank": 94
+  },
+  "buzzex.com": {
+    "name": "Buzzex",
+    "slug": "buzzex",
+    "cmcId": 34975,
+    "rank": 191
+  },
+  "bvox.com": {
+    "name": "BVOX",
+    "slug": "bvox",
+    "cmcId": 7618,
+    "rank": 53
+  },
+  "bybit.com": {
+    "name": "Bybit",
+    "slug": "bybit",
+    "cmcId": 521,
+    "rank": 5
+  },
+  "bybit.eu": {
+    "name": "Bybit EU",
+    "slug": "bybit-eu",
+    "cmcId": 32437,
+    "rank": 161
+  },
+  "bydfi.com": {
+    "name": "BYDFi",
+    "slug": "bydfi",
+    "cmcId": 1188,
+    "rank": 56
+  },
+  "c-patex.com": {
+    "name": "C-Patex",
+    "slug": "c-patex",
+    "cmcId": 360,
+    "rank": 72
+  },
+  "catex.io": {
+    "name": "Cat.Ex",
+    "slug": "catex",
+    "cmcId": 480,
+    "rank": 153
+  },
+  "ceex.com": {
+    "name": "CEEX exchange",
+    "slug": "ceex-exchange",
+    "cmcId": 11608,
+    "rank": 213
+  },
+  "cex.io": {
+    "name": "CEX.IO",
+    "slug": "cex-io",
+    "cmcId": 36,
+    "rank": 79
+  },
+  "changelly.com": {
+    "name": "Changelly",
+    "slug": "changelly",
+    "cmcId": 1128,
+    "rank": 130
+  },
+  "changenow.io": {
+    "name": "ChangeNOW",
+    "slug": "changenow",
+    "cmcId": 9108,
+    "rank": 172
+  },
+  "cofinex.io": {
+    "name": "Cofinex",
+    "slug": "cofinex",
+    "cmcId": 12779,
+    "rank": 184
+  },
+  "coinbase.com": {
+    "name": "Coinbase Exchange",
+    "slug": "coinbase-exchange",
+    "cmcId": 89,
+    "rank": 2
+  },
+  "coincheck.com": {
+    "name": "Coincheck",
+    "slug": "coincheck",
+    "cmcId": 106,
+    "rank": 45
+  },
+  "coincola.com": {
+    "name": "CoinCola",
+    "slug": "coincola",
+    "cmcId": 1518,
+    "rank": 179
+  },
+  "coindcx.com": {
+    "name": "CoinDCX",
+    "slug": "coindcx",
+    "cmcId": 949,
+    "rank": 131
+  },
+  "coinjar.com": {
+    "name": "CoinJar",
+    "slug": "coinjar",
+    "cmcId": 657,
+    "rank": 106
+  },
+  "coinlion.com": {
+    "name": "CoinLion",
+    "slug": "coinlion",
+    "cmcId": 9786,
+    "rank": 220
+  },
+  "coinmate.io": {
+    "name": "Coinmate",
+    "slug": "coinmate",
+    "cmcId": 80,
+    "rank": 100
+  },
+  "coinmetro.com": {
+    "name": "Coinmetro",
+    "slug": "coinmetro",
+    "cmcId": 488,
+    "rank": 124
+  },
+  "coinone.co.kr": {
+    "name": "Coinone",
+    "slug": "coinone",
+    "cmcId": 174,
+    "rank": 64
+  },
+  "coinspace.world": {
+    "name": "COINSPACE",
+    "slug": "coinspace",
+    "cmcId": 12144,
+    "rank": 190
+  },
+  "coinstore.com": {
+    "name": "Coinstore",
+    "slug": "coinstore",
+    "cmcId": 1411,
+    "rank": 91
+  },
+  "cointr.com": {
+    "name": "CoinTR",
+    "slug": "cointr",
+    "cmcId": 5590,
+    "rank": 176
+  },
+  "coinup.io": {
+    "name": "CoinUp.io",
+    "slug": "coinup-io",
+    "cmcId": 10361,
+    "rank": 73
+  },
+  "coinut.com": {
+    "name": "Coinut",
+    "slug": "coinut",
+    "cmcId": 321,
+    "rank": 215
+  },
+  "coinw.com": {
+    "name": "CoinW",
+    "slug": "coinw",
+    "cmcId": 517,
+    "rank": 27
+  },
+  "coinzoom.com": {
+    "name": "CoinZoom",
+    "slug": "coinzoom",
+    "cmcId": 1029,
+    "rank": 116
+  },
+  "criptoswaps.com": {
+    "name": "CriptoSwaps",
+    "slug": "criptoswaps",
+    "cmcId": 12108,
+    "rank": 196
+  },
+  "crmclick.io": {
+    "name": "CRMClick",
+    "slug": "crmclick",
+    "cmcId": 28370,
+    "rank": 202
+  },
+  "crp.is": {
+    "name": "Crypton Exchange",
+    "slug": "crypton-exchange",
+    "cmcId": 9933,
+    "rank": 149
+  },
+  "crypfine.com": {
+    "name": "CrypFine",
+    "slug": "crypfine",
+    "cmcId": 33206,
+    "rank": 63
+  },
+  "crypto.com": {
+    "name": "Crypto.com Exchange",
+    "slug": "crypto-com-exchange",
+    "cmcId": 1149,
+    "rank": 11
+  },
+  "cryptomus.com": {
+    "name": "Cryptomus",
+    "slug": "cryptomus",
+    "cmcId": 11664,
+    "rank": 156
+  },
+  "czrex.com": {
+    "name": "CZR Exchange",
+    "slug": "czr-exchange",
+    "cmcId": 32491,
+    "rank": 163
+  },
+  "deepcoin.com": {
+    "name": "Deepcoin",
+    "slug": "deepcoin",
+    "cmcId": 1182,
+    "rank": 29
+  },
+  "dex-trade.com": {
+    "name": "Dex-Trade",
+    "slug": "dex-trade",
+    "cmcId": 154,
+    "rank": 71
+  },
+  "digifinex.com": {
+    "name": "DigiFinex",
+    "slug": "digifinex",
+    "cmcId": 407,
+    "rank": 93
+  },
+  "digitalx.miraeasset.com": {
+    "name": "Digital X",
+    "slug": "korbit",
+    "cmcId": 194,
+    "rank": 77
+  },
+  "dzengi.com": {
+    "name": "Dzengi",
+    "slug": "dzengi-com",
+    "cmcId": 11665,
+    "rank": 183
+  },
+  "easicoin.io": {
+    "name": "EasiCoin",
+    "slug": "easicoin",
+    "cmcId": 12578,
+    "rank": 188
+  },
+  "echobit.com": {
+    "name": "Echobit",
+    "slug": "echobit",
+    "cmcId": 9449,
+    "rank": 36
+  },
+  "eeee.com": {
+    "name": "4E",
+    "slug": "4e",
+    "cmcId": 9202,
+    "rank": 141
+  },
+  "exchange.gleec.com": {
+    "name": "Gleec BTC",
+    "slug": "gleec-btc",
+    "cmcId": 1222,
+    "rank": 144
+  },
+  "exchange.pointpay.io": {
+    "name": "PointPay",
+    "slug": "pointpay",
+    "cmcId": 1199,
+    "rank": 74
+  },
+  "exchange.revolut.com": {
+    "name": "Revolut (UK)",
+    "slug": "revolut-x",
+    "cmcId": 34398,
+    "rank": 155
+  },
+  "exmo.com": {
+    "name": "EXMO",
+    "slug": "exmo",
+    "cmcId": 50,
+    "rank": 87
+  },
+  "fameex.com": {
+    "name": "FameEX",
+    "slug": "fameex",
+    "cmcId": 1247,
+    "rank": 46
+  },
+  "figuremarkets.com": {
+    "name": "Figure Markets",
+    "slug": "figure-markets",
+    "cmcId": 12155,
+    "rank": 214
+  },
+  "flipster.io": {
+    "name": "Flipster",
+    "slug": "flipster",
+    "cmcId": 6472,
+    "rank": 111
+  },
+  "fmfw.io": {
+    "name": "FMFW.io",
+    "slug": "bitcoin-com-exchange",
+    "cmcId": 857,
+    "rank": 107
+  },
+  "foblgate.com": {
+    "name": "FOBLGATE",
+    "slug": "foblgate",
+    "cmcId": 644,
+    "rank": 224
+  },
+  "foxbit.com.br": {
+    "name": "Foxbit",
+    "slug": "foxbit",
+    "cmcId": 1215,
+    "rank": 96
+  },
+  "freiexchange.com": {
+    "name": "FreiExchange",
+    "slug": "freiexchange",
+    "cmcId": 223,
+    "rank": 223
+  },
+  "ftrex.io": {
+    "name": "Feather Exchange",
+    "slug": "feather-exchange",
+    "cmcId": 34437,
+    "rank": 194
+  },
+  "gate.com": {
+    "name": "Gate",
+    "slug": "gate",
+    "cmcId": 302,
+    "rank": 7
+  },
+  "gemini.com": {
+    "name": "Gemini",
+    "slug": "gemini",
+    "cmcId": 151,
+    "rank": 23
+  },
+  "gems.trade": {
+    "name": "Gems Trade",
+    "slug": "gems-trade",
+    "cmcId": 12467,
+    "rank": 180
+  },
+  "giottus.com": {
+    "name": "Giottus",
+    "slug": "giottus",
+    "cmcId": 1009,
+    "rank": 133
+  },
+  "global.hashkey.com": {
+    "name": "HashKey Global",
+    "slug": "hashkey-global",
+    "cmcId": 9798,
+    "rank": 54
+  },
+  "gopax.co.kr": {
+    "name": "GOPAX",
+    "slug": "gopax",
+    "cmcId": 335,
+    "rank": 123
+  },
+  "grovex.io": {
+    "name": "GroveX",
+    "slug": "grovex",
+    "cmcId": 9217,
+    "rank": 175
+  },
+  "hashkey.com": {
+    "name": "HashKey Exchange",
+    "slug": "hashkey-exchange",
+    "cmcId": 795,
+    "rank": 67
+  },
+  "hibt.com": {
+    "name": "Hibt",
+    "slug": "hibt",
+    "cmcId": 9218,
+    "rank": 40
+  },
+  "hitbtc.com": {
+    "name": "HitBTC",
+    "slug": "hitbtc",
+    "cmcId": 42,
+    "rank": 99
+  },
+  "hotcoin.com": {
+    "name": "Hotcoin",
+    "slug": "hotcoin-global",
+    "cmcId": 943,
+    "rank": 32
+  },
+  "htx.com": {
+    "name": "HTX",
+    "slug": "htx",
+    "cmcId": 102,
+    "rank": 10
+  },
+  "ibitglobal.ai": {
+    "name": "IBIT Global",
+    "slug": "ibit-global",
+    "cmcId": 11136,
+    "rank": 159
+  },
+  "icrypex.com": {
+    "name": "ICRYPEX",
+    "slug": "icrypex",
+    "cmcId": 3735,
+    "rank": 120
+  },
+  "idax.exchange": {
+    "name": "idax exchange",
+    "slug": "idax-exchange",
+    "cmcId": 33355,
+    "rank": 181
+  },
+  "imbx.io": {
+    "name": "IMBX",
+    "slug": "imbx",
+    "cmcId": 33450,
+    "rank": 203
+  },
+  "independentreserve.com": {
+    "name": "Independent Reserve",
+    "slug": "independent-reserve",
+    "cmcId": 166,
+    "rank": 98
+  },
+  "indodax.com": {
+    "name": "Indodax",
+    "slug": "indodax",
+    "cmcId": 68,
+    "rank": 83
+  },
+  "indoex.io": {
+    "name": "IndoEx",
+    "slug": "indoex",
+    "cmcId": 587,
+    "rank": 103
+  },
+  "kanga.exchange": {
+    "name": "Kanga Exchange",
+    "slug": "kanga-exchange",
+    "cmcId": 1273,
+    "rank": 178
+  },
+  "kcex.com": {
+    "name": "KCEX",
+    "slug": "kcex",
+    "cmcId": 9867,
+    "rank": 61
+  },
+  "kinesis.money": {
+    "name": "Kinesis Money",
+    "slug": "kinesis-money",
+    "cmcId": 1323,
+    "rank": 166
+  },
+  "klicklx.com": {
+    "name": "KlicklX",
+    "slug": "idcm",
+    "cmcId": 421,
+    "rank": 212
+  },
+  "koinbay.com": {
+    "name": "Koinbay",
+    "slug": "koinbay",
+    "cmcId": 9717,
+    "rank": 88
+  },
+  "koinbx.com": {
+    "name": "KoinBX",
+    "slug": "koinbx",
+    "cmcId": 1145,
+    "rank": 108
+  },
+  "koinpark.com": {
+    "name": "Koinpark",
+    "slug": "koinpark",
+    "cmcId": 7373,
+    "rank": 205
+  },
+  "kraken.com": {
+    "name": "Kraken",
+    "slug": "kraken",
+    "cmcId": 24,
+    "rank": 14
+  },
+  "kripto.btcturk.com": {
+    "name": "BtcTurk | Kripto",
+    "slug": "btcturk-kripto",
+    "cmcId": 243,
+    "rank": 69
+  },
+  "ktx.com": {
+    "name": "KTX",
+    "slug": "ktx",
+    "cmcId": 33113,
+    "rank": 192
+  },
+  "kucoin.com": {
+    "name": "KuCoin",
+    "slug": "kucoin",
+    "cmcId": 311,
+    "rank": 8
+  },
+  "lbank.com": {
+    "name": "LBank",
+    "slug": "lbank",
+    "cmcId": 333,
+    "rank": 16
+  },
+  "levex.com": {
+    "name": "LeveX",
+    "slug": "levex",
+    "cmcId": 11989,
+    "rank": 160
+  },
+  "lista.org": {
+    "name": "ListaDao",
+    "slug": "listadao",
+    "cmcId": 11016,
+    "rank": 221
+  },
+  "lmaxdigital.com": {
+    "name": "LMAX Digital",
+    "slug": "lmax-digital",
+    "cmcId": 1173,
+    "rank": 113
+  },
+  "luno.com": {
+    "name": "Luno",
+    "slug": "luno",
+    "cmcId": 171,
+    "rank": 66
+  },
+  "mandala.exchange": {
+    "name": "Mandala Exchange",
+    "slug": "mandala",
+    "cmcId": 633,
+    "rank": 147
+  },
+  "market.gudangkripto.id": {
+    "name": "GudangKripto",
+    "slug": "gudangkripto",
+    "cmcId": 33201,
+    "rank": 209
+  },
+  "max.maicoin.com": {
+    "name": "MAX Exchange",
+    "slug": "max-exchange",
+    "cmcId": 868,
+    "rank": 78
+  },
+  "mercadobitcoin.com.br": {
+    "name": "Mercado Bitcoin",
+    "slug": "mercado-bitcoin",
+    "cmcId": 258,
+    "rank": 80
+  },
+  "mexc.com": {
+    "name": "MEXC",
+    "slug": "mexc",
+    "cmcId": 544,
+    "rank": 9
+  },
+  "mgbx.com": {
+    "name": "MGBX",
+    "slug": "mgbx",
+    "cmcId": 10922,
+    "rank": 34
+  },
+  "n-exchange.io": {
+    "name": "NEX Exchange",
+    "slug": "nexchange",
+    "cmcId": 12855,
+    "rank": 204
+  },
+  "ndax.io": {
+    "name": "Ndax",
+    "slug": "ndax",
+    "cmcId": 1043,
+    "rank": 218
+  },
+  "nexdax.com": {
+    "name": "NexDAX",
+    "slug": "nexdax",
+    "cmcId": 1531,
+    "rank": 199
+  },
+  "niza.io": {
+    "name": "Niza.io",
+    "slug": "niza-global",
+    "cmcId": 10109,
+    "rank": 138
+  },
+  "nonkyc.io": {
+    "name": "Nonkyc.io Exchange",
+    "slug": "nonkyc",
+    "cmcId": 8304,
+    "rank": 119
+  },
+  "okcoin.jp": {
+    "name": "OKJ",
+    "slug": "okcoin-japan",
+    "cmcId": 1600,
+    "rank": 90
+  },
+  "okx.com": {
+    "name": "OKX",
+    "slug": "okx",
+    "cmcId": 294,
+    "rank": 4
+  },
+  "omnix.vin": {
+    "name": "OmniX",
+    "slug": "omnix",
+    "cmcId": 7699,
+    "rank": 58
+  },
+  "onebullex.com": {
+    "name": "OneBullEx",
+    "slug": "onebullex",
+    "cmcId": 32688,
+    "rank": 168
+  },
+  "oneex.vip": {
+    "name": "OneEx",
+    "slug": "oneex",
+    "cmcId": 33080,
+    "rank": 170
+  },
+  "orangex.com": {
+    "name": "OrangeX",
+    "slug": "orangex",
+    "cmcId": 8125,
+    "rank": 41
+  },
+  "ourbit.com": {
+    "name": "Ourbit",
+    "slug": "ourbit",
+    "cmcId": 10153,
+    "rank": 26
+  },
+  "p2pb2b.com": {
+    "name": "P2B",
+    "slug": "p2b",
+    "cmcId": 215,
+    "rank": 57
+  },
+  "paribu.com": {
+    "name": "Paribu",
+    "slug": "paribu",
+    "cmcId": 225,
+    "rank": 82
+  },
+  "paymium.com": {
+    "name": "Paymium",
+    "slug": "paymium",
+    "cmcId": 364,
+    "rank": 118
+  },
+  "phemex.com": {
+    "name": "Phemex",
+    "slug": "phemex",
+    "cmcId": 955,
+    "rank": 51
+  },
+  "picol.com": {
+    "name": "Picol",
+    "slug": "picol",
+    "cmcId": 32784,
+    "rank": 173
+  },
+  "pionex.com": {
+    "name": "Pionex",
+    "slug": "pionex",
+    "cmcId": 790,
+    "rank": 25
+  },
+  "poloniex.com": {
+    "name": "Poloniex",
+    "slug": "poloniex",
+    "cmcId": 16,
+    "rank": 37
+  },
+  "pro.coins.ph": {
+    "name": "Coins.ph",
+    "slug": "coins-pro",
+    "cmcId": 5344,
+    "rank": 105
+  },
+  "reku.id": {
+    "name": "Reku",
+    "slug": "rekeningku-com",
+    "cmcId": 723,
+    "rank": 95
+  },
+  "remitano.com": {
+    "name": "Remitano",
+    "slug": "remitano",
+    "cmcId": 567,
+    "rank": 142
+  },
+  "ripio.com": {
+    "name": "Ripio",
+    "slug": "ripio",
+    "cmcId": 1100,
+    "rank": 117
+  },
+  "rudex.org": {
+    "name": "RuDEX",
+    "slug": "rudex",
+    "cmcId": 369,
+    "rank": 227
+  },
+  "safetrade.com": {
+    "name": "SafeTrade",
+    "slug": "safetrade",
+    "cmcId": 491,
+    "rank": 195
+  },
+  "secondbtc.com": {
+    "name": "SecondBTC",
+    "slug": "secondbtc",
+    "cmcId": 564,
+    "rank": 84
+  },
+  "sunx.vip": {
+    "name": "SunX",
+    "slug": "sunx",
+    "cmcId": 32686,
+    "rank": 186
+  },
+  "superex.com": {
+    "name": "SuperEx",
+    "slug": "superex",
+    "cmcId": 5319,
+    "rank": 136
+  },
+  "swft.pro": {
+    "name": "SWFT Trade",
+    "slug": "swft-octopus-trade",
+    "cmcId": 945,
+    "rank": 139
+  },
+  "tapbit.com": {
+    "name": "Tapbit",
+    "slug": "tapbit",
+    "cmcId": 1645,
+    "rank": 50
+  },
+  "tebbit.com": {
+    "name": "Tebbit",
+    "slug": "tebbit",
+    "cmcId": 32929,
+    "rank": 177
+  },
+  "tokocrypto.com": {
+    "name": "Tokocrypto",
+    "slug": "tokocrypto",
+    "cmcId": 710,
+    "rank": 20
+  },
+  "tokpie.io": {
+    "name": "Tokpie",
+    "slug": "tokpie",
+    "cmcId": 1250,
+    "rank": 198
+  },
+  "toobit.com": {
+    "name": "Toobit",
+    "slug": "toobit",
+    "cmcId": 6137,
+    "rank": 24
+  },
+  "tothemoon.com": {
+    "name": "Tothemoon",
+    "slug": "tothemoon",
+    "cmcId": 440,
+    "rank": 101
+  },
+  "traiex.com": {
+    "name": "TRAIEX",
+    "slug": "traiex",
+    "cmcId": 34941,
+    "rank": 162
+  },
+  "triv.co.id": {
+    "name": "TRIV",
+    "slug": "triv",
+    "cmcId": 11135,
+    "rank": 158
+  },
+  "trubit.com": {
+    "name": "TruBit Pro Exchange",
+    "slug": "trubit-exchange",
+    "cmcId": 1133,
+    "rank": 110
+  },
+  "ulinkex.com": {
+    "name": "Ulink",
+    "slug": "ulink",
+    "cmcId": 33326,
+    "rank": 210
+  },
+  "unocoin.com": {
+    "name": "Unocoin",
+    "slug": "unocoin",
+    "cmcId": 378,
+    "rank": 207
+  },
+  "upbit.com": {
+    "name": "Upbit",
+    "slug": "upbit",
+    "cmcId": 351,
+    "rank": 3
+  },
+  "uzx.com": {
+    "name": "UZX",
+    "slug": "uzx",
+    "cmcId": 9181,
+    "rank": 52
+  },
+  "valr.com": {
+    "name": "VALR",
+    "slug": "valr",
+    "cmcId": 908,
+    "rank": 126
+  },
+  "vindax.com": {
+    "name": "VinDAX",
+    "slug": "vindax",
+    "cmcId": 487,
+    "rank": 148
+  },
+  "wazirx.com": {
+    "name": "WazirX",
+    "slug": "wazirx",
+    "cmcId": 425,
+    "rank": 226
+  },
+  "websea.com": {
+    "name": "Websea",
+    "slug": "websea",
+    "cmcId": 9015,
+    "rank": 128
+  },
+  "weex.com": {
+    "name": "WEEX",
+    "slug": "weex",
+    "cmcId": 5751,
+    "rank": 33
+  },
+  "whitebit.com": {
+    "name": "WhiteBIT",
+    "slug": "whitebit",
+    "cmcId": 501,
+    "rank": 48
+  },
+  "woox.io": {
+    "name": "WOO X",
+    "slug": "woox",
+    "cmcId": 1289,
+    "rank": 89
+  },
+  "x.me": {
+    "name": "x.me Exchange",
+    "slug": "voox-exchange",
+    "cmcId": 11090,
+    "rank": 75
+  },
+  "xbo.com": {
+    "name": "XBO.com",
+    "slug": "xbo-com",
+    "cmcId": 11806,
+    "rank": 182
+  },
+  "xt.com": {
+    "name": "XT.COM",
+    "slug": "xt",
+    "cmcId": 525,
+    "rank": 19
+  },
+  "xxkk.com": {
+    "name": "XXKK",
+    "slug": "xxkk",
+    "cmcId": 12218,
+    "rank": 189
+  },
+  "yobit.net": {
+    "name": "YoBit",
+    "slug": "yobit",
+    "cmcId": 100,
+    "rank": 143
+  },
+  "youngplatform.com": {
+    "name": "Young Platform",
+    "slug": "young-platform",
+    "cmcId": 7391,
+    "rank": 174
+  },
+  "yubit.com": {
+    "name": "YUBIT",
+    "slug": "yubit",
+    "cmcId": 11339,
+    "rank": 49
+  },
+  "zaif.jp": {
+    "name": "Zaif",
+    "slug": "zaif",
+    "cmcId": 73,
+    "rank": 55
+  },
+  "zebpay.com": {
+    "name": "ZebPay",
+    "slug": "zebpay",
+    "cmcId": 370,
+    "rank": 135
+  },
+  "zke.com": {
+    "name": "ZKE",
+    "slug": "zke",
+    "cmcId": 9665,
+    "rank": 137
+  },
+  "zoomex.com": {
+    "name": "Zoomex",
+    "slug": "zoomex",
+    "cmcId": 1653,
+    "rank": 86
+  }
+}
